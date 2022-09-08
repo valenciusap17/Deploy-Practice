@@ -1,1 +1,1 @@
-web: gunicorn aplikasi_ketjeh.wsgi --log-file -
+web: gunicorn KULIAH.wsgi --log-file -
