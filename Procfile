@@ -1,1 +1,1 @@
-web: gunicorn Django exercise.wsgi --log-file -
+web: gunicorn FirstJourney.wsgi --log-file -
