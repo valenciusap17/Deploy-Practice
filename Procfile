@@ -1,1 +1,1 @@
-web: gunicorn KULIAH.wsgi --log-file -
+web: gunicorn Django exercise.wsgi --log-file -
